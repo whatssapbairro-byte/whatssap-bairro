@@ -1,7 +1,7 @@
 function App() {
   return (
     <div style={{ textAlign: 'center', marginTop: '50px', fontFamily: 'sans-serif' }}>
-      <h1>WhatsApp do Bairro 99%</h1>
+      <h1>WhatsApp do Bairro 100%</h1>
       <p>Conectando a nossa comunidade!</p>
       
       <a 
