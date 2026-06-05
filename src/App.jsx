@@ -49,7 +49,7 @@ function App() {
           <div style={styles.card}>
             <h3>Painel do Administrador</h3>
             <p>Bem-vindo, Admin!</p>
-            <a href="https://wa.me/5511949988411" style={styles.btnWhatsapp}>Falar com Suporte Admin</a>
+            <a href="https://wa.me/5511999999999" style={styles.btnWhatsapp}>Falar com Suporte Admin</a>
             <button onClick={() => {setIsAuth(false); setView('home')}} style={styles.btnBack}>Sair</button>
           </div>
         )}
